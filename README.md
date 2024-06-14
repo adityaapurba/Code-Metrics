@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# CodeMetrics - A Competitive Programming Dashboard
+
+Code-Metrics is a comprehensive competitive programming dashboard designed to help you keep track of your progress across the major competitive programming platforms. 
+
+1. **Cumulative CP Dashboard**: A comprehensive dashboard that consolidates your competitive programming progress across platforms, providing a holistic view of your performance.
+2. **Platform Stats**: Detailed statistics and analytics showcasing your performance on specific competitive programming platforms, helping you understand your strengths and areas for improvement.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
